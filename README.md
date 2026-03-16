@@ -1,181 +1,76 @@
-# ELITE-TRAINING
-This repository contains my coding practice from the **Elite Placement Training Program**. Phase 1 focuses on Java fundamentals like loops, conditions, arrays, and strings. Phase 2 focuses on advanced problem solving using **Data Structures and Algorithms (DSA)** and interview-style coding practice.
-Here is a **complete professional README.md file** with **emojis, structured sections, and a date-wise table**. You can **directly copy and paste this into your GitHub README.md**.
+# 🚀 Elite Placement Training: Complete Problem Solving Journal
+
+![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Topic-DSA-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Questions_Solved-150+-success?style=for-the-badge)
+
+## 📌 About This Repository
+This repository is a comprehensive, daily archive of my coding progress across **Phase 1 and Phase 2** of Elite Placement Training. It serves as a personal log and a demonstration of consistent, long-term problem-solving. 
+
+The repository contains over 150 optimized solutions written in Java, covering core Data Structures and Algorithms (DSA) concepts from platforms like LeetCode, HackerRank, and OneCompiler.
 
 ---
 
-# 🚀 Elite Placement Training – Problem Solving Journal
+## 📚 Topic Breakdown
+A high-level overview of the specific logic and algorithms practiced during this extensive training program.
 
-## 📌 Overview
+### Phase 1: Core Fundamentals
+| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
+| :--- | :--- | :--- |
+| **Jan 21 - 30, 2026** | Programming Fundamentals | Output formatting, conditional statements, looping, mathematical series, number crunching, and pattern printing. |
+| **Feb 1 - 6, 2026** | Array Logic & Manipulation | 1D Array traversal, calculating array sums, validating Monotonic arrays, sliding windows (subarrays), and array rearrangement. |
 
-Welcome to my **Elite Placement Training Repository**. This repository documents my **daily coding practice and learning journey** during the **Elite Placement Training Program**.
-
-The training focuses on strengthening **programming fundamentals, logical thinking, and algorithmic problem-solving skills** required for technical interviews and placement assessments.
-
-Throughout this program, I consistently practiced coding problems using **Java**, improving my ability to analyze problems, design solutions, and implement efficient programs.
-
-This repository acts as a **coding journal** that records daily practice sessions, training materials, and the progress made during the program.
-
----
-
-# 📚 Training Phases
-
-The training program is divided into **two structured phases**, each designed to progressively improve coding and algorithmic skills.
-
----
-
-# 🧩 Phase 1 – Foundation Phase (Elite Training Slot 1)
-
-Phase 1 focuses on developing **strong programming fundamentals** and improving logical thinking.
-
-During this phase, students practice **basic to intermediate programming problems** using Java. The goal is to understand problem statements clearly and apply simple approaches such as **brute force techniques** to solve problems.
-
-This phase helps build a strong base for solving more complex algorithmic challenges in later stages.
-
-### 📖 Topics Covered
-
-* ☕ Basic Java Programming
-* 🔁 Looping Structures
-* 🔀 Conditional Statements
-* 📦 Arrays
-* 🔤 Strings
-* ⚙️ Basic Algorithms
-* 💡 Brute Force Problem Solving
-
-### 🎯 Objectives
-
-* Develop strong programming fundamentals
-* Improve logical reasoning skills
-* Practice consistent coding exercises
-* Gain confidence in solving programming problems
+### Phase 2: Advanced Logic & Algorithms
+| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
+| :--- | :--- | :--- |
+| **Feb 25, 2026** | 2D Arrays & Matrices | Matrix identity, element searching, row/col maximums, and calculating sums. |
+| **Feb 26, 2026** | Advanced Matrices | Validating specific matrix types (Toeplitz, Sparse, Scalar, Diagonal), transposition, and boundary traversal. |
+| **Feb 27, 2026** | Matrix Patterns & Math | Generating concentric square and spiral patterns in 2D arrays, and matrix multiplication. |
+| **Mar 2, 2026** | String Manipulations | String equality, character searching, vowel replacement, special character counting, and Anagrams/Isograms. |
+| **Mar 3, 2026** | String Fundamentals | String slicing, alphanumeric validation, reversing, splitting, ASCII extraction, and Palindrome checks. |
+| **Mar 4, 2026** | Advanced Strings | In-place string reversal, CamelCase conversion, case toggling, character frequencies, and digit extraction. |
+| **Mar 6, 2026** | 1D Arrays & Math | Array prefix sums, concatenation/shuffling, counting smaller elements, sorting squares, and duplicate detection. |
+| **Mar 10, 2026** | Strings & Binary Search | Validating Pangrams, frequency mapping, Binary Search ($O(\log N)$), and constrained string reversals. |
+| **Mar 11, 2026** | Array & String Logic | Replacing array elements with the greatest on the right, removing consecutive vowels, and string reviews. |
 
 ---
 
-# 🧠 Phase 2 – Advanced Problem Solving (Elite Placement Training)
+## 📅 Daily Progress Tracker
 
-Phase 2 focuses on **advanced coding problems and Data Structures & Algorithms (DSA)**.
+### Slot 1 (Phase 1)
+*Click the links below to view the original PDF problem sets and solutions.*
 
-Students practice solving **interview-style coding challenges** inspired by platforms like **LeetCode and HackerRank**. This phase emphasizes writing **optimized solutions**, analyzing **time complexity**, and applying algorithmic techniques.
+| Date | Focus Area | Platform | Questions Solved | Link to Code |
+| :--- | :--- | :--- | :---: | :--- |
+| **Jan 21, 2026** | Output Formatting & Precision | HackerRank | 14 | [View PDF](./21%20JAN%2026.pdf) |
+| **Jan 22, 2026** | Conditional Statements (If-Else) | HackerRank | 10 | [View PDF](./22%20JAN%2026.pdf) |
+| **Jan 23, 2026** | Looping & Number Series | HackerRank | 15 | [View PDF](./23%20JAN%2026.pdf) |
+| **Jan 27, 2026** | Logic Building & Star Patterns | HackerRank | 7 | [View PDF](./27%20JAN%2026.pdf) |
+| **Jan 28, 2026** | Number Crunching & Math Logic | HackerRank | 14 | [View PDF](./28%20JAN%2026.pdf) |
+| **Jan 29, 2026** | Basic Math & Functions | LeetCode | 11 | [View PDF](./29%20JAN%2026.pdf) |
+| **Jan 30, 2026** | Game Logic & Algorithms | LeetCode | 21 | [View PDF](./30%20JAN%2026.pdf) |
+| **Feb 1, 2026** | 1D Arrays Introduction | HackerRank | ~10 | [View PDF](./1%20FEB%2026.pdf) |
+| **Feb 2, 2026** | 1D Arrays Traversal & Checks | HackerRank | 11 | [View PDF](./2%20FEB%2026.pdf) |
+| **Feb 3, 2026** | 1D Arrays Extremes & Searching | HackerRank | 10 | [View PDF](./3%20FEB%2026.pdf) |
+| **Feb 4, 2026** | Array Word Problems & Simulations | HackerRank | ~10 | [View PDF](./4%20FEB%2026.pdf) |
+| **Feb 5, 2026** | Subarrays & Sliding Window | LeetCode | ~10 | [View PDF](./5%20FEB%2026.pdf) |
+| **Feb 6, 2026** | Array Rearrangement & Sorting | HackerRank | ~10 | [View PDF](./6%20FEB%2026.pdf) |
 
-The training helps students prepare for **technical interviews, coding rounds, and placement assessments**.
+### Slot 2 (Phase 2)
+*Click the links below to view the formatted Markdown code files.*
 
-### 📖 Topics Covered
-
-* 📊 Array and String Problems
-* 🔍 Searching Algorithms
-* 🔃 Sorting Techniques
-* 🧠 Logical Programming
-* ⚡ Time Complexity Optimization
-* 📈 Problem Solving Strategies
-
-### 💻 Practice Platforms
-
-Problems practiced in this phase are inspired by:
-
-* 🟢 LeetCode
-* 🟡 HackerRank
-* 🔵 Online Coding Platforms
-
-### 🎯 Objectives
-
-* Strengthen algorithmic thinking
-* Improve coding efficiency
-* Practice real interview-style problems
-* Prepare for technical interviews
-
----
-
-# 📅 Daily Training Progress
-
-## 🧩 Phase 1 – Foundation Training
-
-| Date        | Topic                  | Concepts Practiced    |
-| ----------- | ---------------------- | --------------------- |
-| 21 Jan 2026 | Introduction to Coding | Basic Java Programs   |
-| 22 Jan 2026 | Control Structures     | If Statements, Loops  |
-| 23 Jan 2026 | Problem Solving        | Pattern Programs      |
-| 27 Jan 2026 | Arrays                 | Array Traversal       |
-| 28 Jan 2026 | Strings                | String Manipulation   |
-| 29 Jan 2026 | Basic Algorithms       | Searching Techniques  |
-| 30 Jan 2026 | Practice Session       | Mixed Coding Problems |
-| 02 Feb 2026 | String Problems        | Character Operations  |
-| 03 Feb 2026 | Logic Development      | Coding Practice       |
-| 04 Feb 2026 | Loop Applications      | Pattern Logic         |
-| 05 Feb 2026 | Arrays Practice        | Element Operations    |
-| 06 Feb 2026 | Revision               | Mixed Practice        |
+| Date | Focus Area | Platform | Questions Solved | Link to Code |
+| :--- | :--- | :--- | :---: | :--- |
+| **Feb 25, 2026** | 2D Arrays & Matrix Operations | HackerRank | 10 | [View Solutions](./FEB%2025%202026.md) |
+| **Feb 26, 2026** | Advanced Matrices (Toeplitz, Sparse) | HackerRank | 10 | [View Solutions](./FEB%2026%202026.md) |
+| **Feb 27, 2026** | Spiral Patterns & Matrix Math | HackerRank | 3 | [View Solutions](./FEB%2027%202026.md) |
+| **Mar 2, 2026** | String Manipulations & Anagrams | HackerRank | 7 | [View Solutions](./MAR%202%202026.md) |
+| **Mar 3, 2026** | String Fundamentals | OneCompiler | 20 | [View Solutions](./MAR%203%202026.md) |
+| **Mar 4, 2026** | Advanced Strings & Toggles | HackerRank | 13 | [View Solutions](./MAR%204%202026.md) |
+| **Mar 6, 2026** | Arrays & Running Sums | LeetCode | 9 | [View Solutions](./MAR%206%202026.md) |
+| **Mar 10, 2026** | Strings & Binary Search | LeetCode / HR | 8 | [View Solutions](./MAR%2010%202026.md) |
+| **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
 
-## 🧠 Phase 2 – Advanced Training
-
-| Date        | Topic               | Concepts Practiced        |
-| ----------- | ------------------- | ------------------------- |
-| 25 Feb 2026 | Matrix Problems     | Matrix Comparison         |
-| 26 Feb 2026 | Matrix Algorithms   | Toeplitz Matrix           |
-| 27 Feb 2026 | Pattern Problems    | Concentric Square Pattern |
-| 02 Mar 2026 | String Problems     | String Comparison         |
-| 03 Mar 2026 | String Fundamentals | String Length             |
-| 04 Mar 2026 | String Algorithms   | Reverse String            |
-| 06 Mar 2026 | Array Algorithms    | Running Sum of Array      |
-| 10 Mar 2026 | String Logic        | Isogram Detection         |
-| 11 Mar 2026 | Frequency Problems  | Character Frequency       |
-
----
-
-# 📂 Repository Structure
-
-```
-Elite-Placement-Training
-│
-├── Phase-1-Elite-Training-Slot-1
-│   ├── 21 JAN 26.pdf
-│   ├── 22 JAN 26.pdf
-│   ├── 23 JAN 26.pdf
-│   └── ...
-│
-├── Phase-2-Elite-Placement-Training
-│   ├── Daily Training Materials
-│   ├── Coding Practice Problems
-│   └── Practice Sessions
-│
-└── README.md
-```
-
-Each file contains **daily coding exercises and training materials** completed during the program.
-
----
-
-# 🛠️ Skills Developed
-
-Through this training, the following skills were improved:
-
-* ☕ Java Programming
-* 🧠 Logical Problem Solving
-* ⚙️ Algorithmic Thinking
-* 🐞 Debugging Techniques
-* 🚀 Coding Interview Preparation
-
----
-
-# 🎯 Purpose of this Repository
-
-This repository was created to:
-
-* 📅 Track **daily coding progress**
-* 📘 Document **training materials and exercises**
-* 💡 Improve **problem-solving consistency**
-* 🎓 Prepare for **technical interviews and placement rounds**
-
----
-
-# 💻 Programming Language
-
-**Java**
-
----
-
-# 👩‍💻 Author
-
-**Preethi**
-🎓 Bachelor of Engineering – Computer Science and Engineering
 
